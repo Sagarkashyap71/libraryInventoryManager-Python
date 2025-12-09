@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Python Basics",
+        "author": "John Smith",
+        "isbn": "001",
+        "status": "issued"
+    },
+    {
+        "title": "C Programming",
+        "author": "Dennis Ritchie",
+        "isbn": "002",
+        "status": "issued"
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "isbn": "101",
+        "status": "issued"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "isbn": "102",
+        "status": "issued"
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "isbn": "103",
+        "status": "available"
+    },
+    {
+        "title": "The C Programming Language",
+        "author": "Dennis Ritchie",
+        "isbn": "104",
+        "status": "available"
+    },
+    {
+        "title": "Learning JavaScript",
+        "author": "Ethan Brown",
+        "isbn": "105",
+        "status": "issued"
+    },
+    {
+        "title": "Data Structures and Algorithms in Python",
+        "author": "Michael T. Goodrich",
+        "isbn": "106",
+        "status": "available"
+    },
+    {
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "isbn": "107",
+        "status": "available"
+    },
+    {
+        "title": "Database System Concepts",
+        "author": "Henry F. Korth",
+        "isbn": "108",
+        "status": "issued"
+    },
+    {
+        "title": "Computer Networks",
+        "author": "Andrew S. Tanenbaum",
+        "isbn": "109",
+        "status": "available"
+    }
+]
